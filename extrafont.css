@@ -1,0 +1,54 @@
+h1 {
+	color: green;
+	font-size: 70px;
+	text-align: center;
+}
+h2 {
+	color: green;
+	font-size: 35px;
+	text-align: center;
+}
+body {
+background-color: #FFFFCC;
+background-image:url('images/lemon.jpg');
+background-repeat: repeat;
+background-position: top right;
+}
+#container {
+width: 940px;
+margin: 0 auto;
+}
+li{
+	color: green;
+	font-size: 35px;
+	text-align: left;
+}
+form {
+	text-align: center;
+	font-size: 35px
+	color:green;
+}
+footer {
+	text-align: center;
+	font-size: 13px;
+	color: gray;
+	font-weight: bold;
+}
+#images_hz {
+width: 12em;
+height: auto;
+overflow: no;
+position: relative;
+}
+#images_hz img {
+display: inline-block;
+margin: 0 10px;
+}
+#href_hz {
+width: px;
+height: auto;
+overflow: hidden;
+}
+#href_hz {
+display: inline-block;
+margin: 0 10px;}
