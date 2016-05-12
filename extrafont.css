@@ -5,9 +5,9 @@ h1 {
 	background-color: #FFFFCC;
 }
 h2 {
-	color: green;
+	color: gray;
 	font-size: 35px;
-	text-align: left;
+	text-align: center;
 }
 h3 {
 	color: green;
@@ -24,10 +24,13 @@ background-position: top right;
 width: 940px;
 margin: 0 auto;
 }
+ul{
+	list-style-type:none;
+}
 li{
 	color: green;
 	font-size: 35px;
-	text-align: left;
+	text-align: center;
 }
 form {
 	text-align: right;
