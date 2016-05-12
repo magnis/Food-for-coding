@@ -43,6 +43,8 @@ footer {
 	color: gray;
 	font-weight: bold;
 }
+
+}
 #images_hz {
 width: 12em;
 height: auto;
@@ -77,8 +79,8 @@ text-align: center;
     box-sizing: border-box;
     color: rgb(51, 51, 51);
     height: 46px;
-    text-align: right;
-    width: 1300px;
+    text-align: center;
+    width: 1450px;
     column-rule-color: rgb(51, 51, 51);
     perspective-origin: 360px 23px;
     transform-origin: 360px 23px;
