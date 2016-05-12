@@ -52,3 +52,10 @@ overflow: hidden;
 #href_hz {
 display: inline-block;
 margin: 0 10px;}
+
+p{ 
+text-align: center;
+	font-size: 13px;
+	color: gray;
+	font-weight: bold;	
+}
