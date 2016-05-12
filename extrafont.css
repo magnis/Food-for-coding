@@ -2,6 +2,7 @@ h1 {
 	color: green;
 	font-size: 70px;
 	text-align: center;
+	background-color: #FFFFCC;
 }
 h2 {
 	color: green;
@@ -15,7 +16,7 @@ h3 {
 }
 body {
 background-color: #FFFFCC;
-background-image:url('images/lemon.jpg');
+background:url('images/lemon.jpg');
 background-repeat: repeat;
 background-position: top right;
 }
@@ -29,7 +30,7 @@ li{
 	text-align: left;
 }
 form {
-	text-align: center;
+	text-align: right;
 	font-size: 70px
 	color:green;
 }
@@ -68,3 +69,76 @@ text-align: center;
 	color: gray;
 	font-weight: bold;	
 }
+
+#DIV_1 {
+    box-sizing: border-box;
+    color: rgb(51, 51, 51);
+    height: 46px;
+    text-align: right;
+    width: 1300px;
+    column-rule-color: rgb(51, 51, 51);
+    perspective-origin: 360px 23px;
+    transform-origin: 360px 23px;
+    border: 0px none rgb(51, 51, 51);
+    font: normal normal normal normal 15px / normal Lato, sans-serif;
+    margin: 50px 0px 0px;
+    outline: rgb(51, 51, 51) none 0px;
+}/*#DIV_1*/
+
+#BUTTON_2 {
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+    height: 46px;
+    touch-action: manipulation;
+    vertical-align: middle;
+    white-space: nowrap;
+    width: 87.0156px;
+    column-rule-color: rgb(255, 255, 255);
+    perspective-origin: 43.5px 23px;
+    transform-origin: 43.5px 23px;
+    background: rgb(0, 172, 238) none repeat scroll 0% 0% / auto padding-box border-box;
+    border: 1px solid rgb(0, 154, 213);
+    border-radius: 6px 6px 6px 6px;
+    font: normal normal normal normal 18px / 24px Lato, sans-serif;
+    outline: rgb(255, 255, 255) none 0px;
+    padding: 10px 16px;
+}/*#BUTTON_2*/
+
+#BUTTON_3 {
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+    height: 46px;
+    touch-action: manipulation;
+    vertical-align: middle;
+    white-space: nowrap;
+    width: 113.063px;
+    column-rule-color: rgb(255, 255, 255);
+    perspective-origin: 56.5313px 23px;
+    transform-origin: 56.5313px 23px;
+    background: rgb(72, 104, 172) none repeat scroll 0% 0% / auto padding-box border-box;
+    border: 1px solid rgb(49, 71, 118);
+    border-radius: 6px 6px 6px 6px;
+    font: normal normal normal normal 18px / 24px Lato, sans-serif;
+    outline: rgb(255, 255, 255) none 0px;
+    padding: 10px 16px;
+}/*#BUTTON_3*/
+
+#BUTTON_4 {
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+    height: 46px;
+    touch-action: manipulation;
+    vertical-align: middle;
+    white-space: nowrap;
+    width: 107.563px;
+    column-rule-color: rgb(255, 255, 255);
+    perspective-origin: 53.7813px 23px;
+    transform-origin: 53.7813px 23px;
+    background: rgb(182, 47, 38) none repeat scroll 0% 0% / auto padding-box border-box;
+    border: 1px solid rgb(182, 47, 38);
+    border-radius: 6px 6px 6px 6px;
+    font: normal normal normal normal 18px / 24px Lato, sans-serif;
+    outline: rgb(255, 255, 255) none 0px;
+    padding: 10px 16px;
+}/*#BUTTON_4*/
+
