@@ -57,7 +57,17 @@ overflow: hidden;
 #href_hz {
 display: inline-block;
 margin: 0 10px;}
+<<<<<<< HEAD
 blockquote {
 	color: green;
 	font-size: 30px;
 }
+=======
+
+p{ 
+text-align: center;
+	font-size: 20px;
+	color: gray;
+	font-weight: bold;	
+}
+>>>>>>> origin/master
