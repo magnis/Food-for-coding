@@ -36,41 +36,26 @@ form {
 	font-size: 70px
 	color:green;
 }
+tr {
+  font-size: 70px
+    color:gray;  
+}
 footer {
 	text-align: center;
 	font-size: 13px;
 	color: gray;
 	font-weight: bold;
 }
-
-}
-#images_hz {
-width: 12em;
-height: auto;
-overflow: no;
-position: relative;
-}
-#images_hz img {
-display: inline-block;
-margin: 0 10px;
-}
-#href_hz {
-width: px;
-height: auto;
-overflow: hidden;
-}
-#href_hz {
-display: inline-block;
-margin: 0 10px;}
-<<<<<<< HEAD
-blockquote {
-	color: green;
-	font-size: 30px;
-}
-p{ 
+.text { 
 text-align: center;
 	font-size: 20px;
 	color: gray;		
+}
+table {
+    align:center;
+}
+td {
+  align:center;  
 }
 #DIV_1 {
     box-sizing: border-box;
