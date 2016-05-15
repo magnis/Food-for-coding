@@ -14,6 +14,7 @@ h3 {
 	color: green;
 	font-size: 35px;
 	text-align: center;
+    text-shadow: 1px 1px 2px black, 0 0 25px black, 0 0 5px gray;
 }
 body {
 background-color: #FFFFCC;
@@ -29,14 +30,16 @@ ul{
 }
 li{
 	color: green;
-	font-size: 35px;
+	font-size: 40px;
 	text-align: center;
 }
 form {
 	text-align: center;
 	font-size: 70px
 	color:green;
-} 
+}
+p {
+    font-weight: bold;
 }
 tr {
   font-size: 70px
